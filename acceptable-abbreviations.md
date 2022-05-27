@@ -14,6 +14,8 @@ definitions:
 | str          | string              |
 | int          | integer             |
 | bool         | boolean             |
+| arr          | array               |
+| dict         | dictionary          |
 | ptr          | pointer             |
 | ref          | reference           |
 | err          | error               |
@@ -27,6 +29,7 @@ definitions:
 | vec          | vector              |
 | del          | delete              |
 | exe          | execute             |
+| val          | value               |
 
 Every project is different and is going to have additional acceptable
 abbreviations (e.g. when coding a game, using "hp" instead of "health points"
